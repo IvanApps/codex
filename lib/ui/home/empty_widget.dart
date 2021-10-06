@@ -37,7 +37,7 @@ class EmptyWidget extends StatelessWidget {
                     height: 80,
                   ),
                   Text(
-                    '¡Hola!\nBienvenido',
+                    'Hello!\nWelcome',
                     textAlign: TextAlign.start,
                     style: TextStyle(
                       fontSize: 34,
@@ -48,7 +48,7 @@ class EmptyWidget extends StatelessWidget {
                     height: 20,
                   ),
                   Text(
-                    'Por favor, agrega una ciudad...',
+                    'Please, add a city...',
                     textAlign: TextAlign.start,
                   ),
                   const SizedBox(
@@ -56,7 +56,7 @@ class EmptyWidget extends StatelessWidget {
                   ),
                   ElevatedButton(
                     child: Text(
-                      'Ingresar',
+                      'Login',
                       style: TextStyle(
                         color: Colors.black,
                       ),
