@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.appweather">
-    <!--<uses-permission android:name="android.permission.INTERNET"/>-->
+    <uses-permission android:name="android.permission.INTERNET"/>
    <application
         android:label="appweather"
         android:icon="@mipmap/ic_launcher">
